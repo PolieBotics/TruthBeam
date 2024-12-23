@@ -2,9 +2,9 @@ class Config:
     #---------------------------------------------------------
     # Critical Parameters for Secure Recording and Blockchain
     #---------------------------------------------------------
-    CAMERA_SERIAL = "25420561"  # Camera serial number
+    CAMERA_SERIAL = "..."  # Camera serial number
     RSK_ENDPOINT = "https://public-node.rsk.co"
-    RSK_PRIVATE_KEY = "0x3b2aab56b1de452fe1ac66fce2c7e223873965d71599ea68f17a09598190e7ac"
+    RSK_PRIVATE_KEY = "0x..."
 
     #---------------------------------------------------------
     # Recording and Camera Settings
